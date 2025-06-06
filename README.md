@@ -12,7 +12,6 @@
 - 💻 Senior JavaScript Developer (React, Node.js, Express, TypeScript)
 - 🌎 Remote experience with international teams
 - 🧠 Exploring AI integrations (OpenAI, Google AI, Zapier, marketing attribution)
-- 📊 Founder of [Admira](https://app.getadmira.com/) – a platform for ad analytics & attribution
 - 🧩 I love solving problems with clean code, design systems, and thoughtful architecture
 
 ---
