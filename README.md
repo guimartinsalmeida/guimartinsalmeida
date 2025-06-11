@@ -20,7 +20,7 @@
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,js,html,css,tailwind,mongodb,postgres,docker,vercel,github,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,js,html,css,tailwind,mongodb,postgres,docker,vercel,figma" />
 
 </div>
 
